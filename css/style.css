@@ -1,0 +1,9 @@
+#iran-svg{
+    width: 100%;
+}
+#iran-svg>g>a>path{
+    transition: 1s;
+}
+#iran-svg>g>a>path:hover{
+    fill: #9ac245;
+}
