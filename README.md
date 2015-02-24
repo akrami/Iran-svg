@@ -8,3 +8,7 @@ Browser Compability (Tested till now):
 - Firefox
 
 for demo please visit http://iakrami.ir/Iran-svg/
+
+نقشه ایران با فرمت svg با قابلیت کلیک بر روی استان ها
+
+برای استفاده در صفحات html5
