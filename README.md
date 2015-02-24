@@ -7,6 +7,4 @@ Browser Compability (Tested till now):
 - IE 9+
 - Firefox
 
-for demo please visit http://iakrami.ir/Iran-svg/[1]
-
-[1] http://iakrami.ir/Iran-svg/
+for demo please visit http://iakrami.ir/Iran-svg/
